@@ -1,0 +1,2 @@
+supersajt.xyz:192.168.1.100
+supersajt1.xyz:192.168.1.101
